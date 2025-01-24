@@ -10,3 +10,4 @@ To jest przykładowy projekt demonstrujący użycie modelu GPT-2 do generowania 
 ## Instalacja
 
 Aby zainstalować wymagane biblioteki, uruchom:
+pip install -r requirements.txt
